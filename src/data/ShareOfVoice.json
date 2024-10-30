@@ -1,0 +1,26 @@
+{
+  "startDate": 1718059213000,
+  "endDate": 1718664013000,
+  "data": [
+    {
+      "source": "Facebook",
+      "sourceColor": "#FF6384",
+      "numMentions": 10094
+    },
+    {
+      "source": "Twitter",
+      "sourceColor": "#36A2EB",
+      "numMentions": 4209
+    },
+    {
+      "source": "Youtube",
+      "sourceColor": "#FFCE56",
+      "numMentions": 1005
+    },
+    {
+      "source": "Instagram",
+      "sourceColor": "#4BC0C0",
+      "numMentions": 7500
+    }
+  ]
+}

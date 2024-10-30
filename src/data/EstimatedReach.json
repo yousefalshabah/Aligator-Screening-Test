@@ -1,0 +1,26 @@
+{
+  "startDate": 1718059213000,
+  "endDate": 1718664013000,
+  "data": [
+    {
+      "source": "Facebook",
+      "sourceColor": "#FF6384",
+      "estimatedReach": 400
+    },
+    {
+      "source": "Twitter",
+      "sourceColor": "#36A2EB",
+      "estimatedReach": 310
+    },
+    {
+      "source": "Youtube",
+      "sourceColor": "#FFCE56",
+      "estimatedReach": 260
+    },
+    {
+      "source": "Instagram",
+      "sourceColor": "#4BC0C0",
+      "estimatedReach": 720
+    }
+  ]
+}
